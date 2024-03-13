@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+<div align="center">
+  <img align="center" src="./github-header-image.png"/>
+</div>
 
 # Olá, me chamo Diego Cunha, Full Cycle Developer. 
 ## Esse espaço é dedicado ao meu perfil profissional. Dê uma olhada...
@@ -44,7 +46,7 @@
 
 #### Outras ferramentas
 <div style="display: inline;" align="center">
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" /> 
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
