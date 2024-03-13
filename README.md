@@ -73,3 +73,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodevtech&layout=compact)](https://github.com/diegodevtech/github-readme-stats&layout=compact)
 
 [Snake animation](https://github.com/diegodevtech/diegodevtech/blob/output/github-contribution-grid-snake.svg)
+
