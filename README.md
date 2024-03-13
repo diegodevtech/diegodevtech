@@ -72,5 +72,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodevtech&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/diegodevtech/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodevtech&layout=compact)](https://github.com/diegodevtech/github-readme-stats&layout=compact)
 
-[Snake animation](https://github.com/diegodevtech/diegodevtech/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
