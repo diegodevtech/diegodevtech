@@ -69,6 +69,8 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 </div>
 
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/diegodevtech/diegodevtech/output/github-contribution-grid-snake.svg" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodevtech&theme=dark&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/diegodevtech/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodevtech&layout=compact)](https://github.com/diegodevtech/github-readme-stats&layout=compact)
 
