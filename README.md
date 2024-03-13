@@ -40,6 +40,7 @@
 
 #### Outras ferramentas
 <div style="display: inline;" align="center">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" /> 
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
