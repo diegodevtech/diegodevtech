@@ -1,10 +1,10 @@
-# Hey there, my name is Diego Cunha, Fullstack Developer. 
+# Hey there, my name is Diego Cunha, Software Engineer. 
 ## Welcome to my professional space. Take a look...
 
 <br/>
 
 - 🖥️ I'm currently working as a Specialist Software Developer (Front-end focused).
-- 📖 Nowadays, decided to start learning about Observability, Infrastructure and Cloud Computing.
+- 📖 Nowadays, decided to start learning about Backend, Observability, Infrastructure and Cloud Computing.
 - 🔎 Looking for opportunities to work as frontend, backend or both.
 - ❓ Ask me about React, Redux, RTK Query, or what else you want.
 - 📩 You can reach me through my email: diegocunhaam@gmail.com
@@ -19,33 +19,18 @@
 </p>
 
 ### Tools
-#### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,redux,materialui,tailwind,bootstrap,wordpress" />
-  </a>
-</p>
-
-#### Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
-  </a>
-</p>
-
-#### Database
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react,redux,materialui,tailwind,bootstrap" />
   </a>
 </p>
 
 #### Other tools
 <div style="display: inline;" align="center">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/consul/consul-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 </div>
