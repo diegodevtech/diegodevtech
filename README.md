@@ -1,13 +1,14 @@
-# Hey there, my name is Diego Cunha, Software Engineer. 
+# Hi, my name is Diego Cunha, Full Stack Software Engineer. 
 ## Welcome to my professional space. Take a look...
 
 <br/>
 
 <!-- - 🖥️ I'm currently working as a Specialist Software Developer (Front-end focused). -->
-- 📖 Nowadays, decided to start learning about Backend, Observability, Infrastructure and Cloud Computing.
-- 🔎 Looking for opportunities to work as frontend, backend or both.
-- ❓ Ask me about Typescript, React, Redux, Go(Golang), DDD, TDD, or what else you want.
-- 📩 You can reach me through my email: diegocunhaam@gmail.com
+- 📖 Learning about Infrastructure to become a Full Cycle Developer.
+- 🔎 Looking for opportunities to work as Frontend, Backend or Full Stack Engineer.
+- ❓ Ask me about Typescript, Javascript, React, Redux, Go(Golang), DDD, TDD, Clean Arch or what else you want.
+- 📩 You can reach me through Email: diegocunhaam@gmail.com or LinkedIn: https://www.linkedin.com/in/diego-cunha-dev
+- 🌎 I can talk to you in 🇧🇷 Portuguese (Native) and 🇺🇸 English (Fluent).
 - 😆 Fun fact: I'm a table tennis crazy lover.
 
 ## Some about my tech stack...
@@ -19,9 +20,24 @@
 </p>
 
 ### Tools
+#### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,graphql,styledcomponents,tailwind,nodejs,nest,express,sequelize,prisma,mongodb,postgres,sqlite,jest,docker,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,graphql,styledcomponents,tailwind" />
+  </a>
+</p>
+
+#### Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,sequelize,prisma,mongodb,postgres,sqlite&perline=8" />
+  </a>
+</p>
+
+#### Other tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,docker,git&perline=8" />
   </a>
 </p>
 
