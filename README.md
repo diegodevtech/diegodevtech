@@ -1,12 +1,12 @@
-# Hi, my name is Diego Cunha, Full Stack Software Engineer. 
+# Hi, my name is Diego Cunha, Software Engineer. 
 ## Welcome to my professional space. Take a look...
 
 <br/>
 
 <!-- - 🖥️ I'm currently working as a Specialist Software Developer (Front-end focused). -->
-- 📖 Learning about Infrastructure to become a Full Cycle Developer.
-- 🔎 Looking for opportunities to work as Frontend, Backend or Full Stack Engineer.
-- ❓ Ask me about Typescript, Javascript, React, Redux, Go(Golang), DDD, TDD, Clean Arch or what else you want.
+- 📖 Learning about new tools everyday.
+- 🔎 Looking for opportunities to work as Frontend or Full Stack Engineer (FE focused).
+- ❓ Ask me about Javascript, React, Redux, Component Lifecycle, Reconciliation or what else you want.
 - 📩 You can reach me through Email: diegocunhaam@gmail.com or LinkedIn: https://www.linkedin.com/in/diego-cunha-dev
 - 🌎 I can talk to you in 🇧🇷 Portuguese (Native) and 🇺🇸 English (Fluent).
 - 😆 Fun fact: I'm a table tennis crazy lover.
