@@ -41,13 +41,6 @@
   </a>
 </p>
 
-<!--#### Other tools
-<div style="display: inline;" align="center">
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />          
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
-</div>
--->
 <br />
 <div align="center">
   

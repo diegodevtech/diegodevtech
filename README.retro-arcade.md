@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Diego%20Cunha&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Full%20Stack%20(FE%20focused)&descAlignY=60&animation=blink&color=0:161616,50:2b2b2b,100:161616" alt="Retro arcade header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Diego%20Cunha&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%7C%20Full%20Stack%20(FE%20focused)&descAlignY=60&animation=blink&color=0:161616,50:2b2b2b,100:161616" alt="Retro arcade header"/>
 </div>
 
 <div align="center">
@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="mailto:diegocunhaam@gmail.com">
-    <img src="https://img.shields.io/badge/INSERT_COIN_EMAIL-ffbe0b?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=fb5607" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-ffbe0b?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=fb5607" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/diego-cunha-dev" target="_blank">
-    <img src="https://img.shields.io/badge/START_LINKEDIN-3a86ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2b2b2b" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-3a86ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2b2b2b" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-ff006e?style=flat-square&labelColor=2b2b2b" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/FOCUS-FRONTEND_%26_FULL_STACK-ffbe0b?style=flat-square&labelColor=2b2b2b" alt="Focus"/>
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-3a86ff?style=flat-square&labelColor=2b2b2b" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/FOCUS-FRONTEND-3a86ff?style=flat-square&labelColor=2b2b2b" alt="Focus"/>
   <img src="https://img.shields.io/badge/LANGUAGE-PT_BR_%7C_EN-3a86ff?style=flat-square&labelColor=2b2b2b" alt="Languages"/>
 </p>
 

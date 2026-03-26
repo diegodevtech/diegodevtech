@@ -1,9 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Diego%20Cunha&fontSize=44&fontAlignY=36&desc=Software%20Engineer%20%7C%20Frontend%20%7C%20Full%20Stack%20(FE%20focused)&descAlignY=58&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Diego%20Cunha&fontSize=44&fontAlignY=36&desc=Senior%20%Software%20Engineer%20%7C%20Full-Stack%20%7C%20Front-End&descAlignY=58&reversal=false&fontColor=fff&animation=twinkling&color=0:020617,50:0b1020,100:001a1a" alt="header"/>
+  <!-- https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&reversal=false&fontColor=39ff14&animation=twinkling&strokeWidth=2&stroke=000000 -->
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=980&lines=Welcome+to+my+professional+space;Learning+new+tools+every+day;Looking+for+Frontend+or+Full+Stack+Engineer+opportunities;Ask+me+about+JavaScript%2C+React%2C+Redux%2C+Lifecycle+%26+Reconciliation;Portuguese+Native+%7C+English+Fluent;Table+tennis+crazy+lover+%F0%9F%8F%93" alt="typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2dba4e&center=true&vCenter=true&width=980&lines=Welcome+to+my+professional+space;Looking+for+Frontend+or+Full+Stack+Engineer+opportunities;Portuguese+Native+%7C+English+Fluent;Table+tennis+crazy+lover+%F0%9F%8F%93" alt="typing animation"/>
 </div>
 
 <p align="center">
@@ -16,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-2c5364?style=flat-square" alt="open to work"/>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20and%20Full%20Stack-2c5364?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Language-PT--BR%20%7C%20EN-2c5364?style=flat-square" alt="languages"/>
+  <img src="https://img.shields.io/badge/Status-Available-2c5364?style=flat-square" alt="available"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend-2c5364?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Language-Portuguese%20%7C%20English-2c5364?style=flat-square" alt="languages"/>
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -41,13 +42,13 @@
 
 <h2 align="center">GitHub Pulse</h2>
 
-<div align="center">
+<!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=diegodevtech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0f2027&text_color=203a43&icon_color=2c5364" alt="github stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodevtech&layout=compact&hide_border=true&bg_color=00000000&title_color=0f2027&text_color=203a43" alt="top languages"/>
-</div>
+</div> -->
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegodevtech&bg_color=ffffff00&color=203a43&line=2c5364&point=0f2027&area=true&hide_border=true" alt="activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=diegodevtech&bg_color=ffffff00&color=2dba4e&line=2c5364&point=2dba4e&area=true&hide_border=true" alt="activity graph"/>
 </div>
 
 <div align="center">
