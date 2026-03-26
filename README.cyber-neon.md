@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Diego%20Cunha&fontSize=46&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Full%20Stack%20(FE%20focused)&descAlignY=58&animation=twinkling&color=0:020617,50:0b1020,100:001a1a" alt="Cyber neon header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Diego%20Cunha&fontSize=46&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%2026%20Full%20Stack%20(FE%20focused)&descAlignY=58&animation=twinkling&color=0:020617,50:0b1020,100:001a1a" alt="Cyber neon header"/>
 </div>
 
 <div align="center">
