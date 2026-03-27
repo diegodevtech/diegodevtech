@@ -42,9 +42,13 @@
 
 <h2 align="center">GitHub Pulse</h2>
 
+<div align="center">
+  <img height="170" src="https://diegodevtech-github-readme-stats.vercel.app/api?username=diegodevtech&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=282A36&title_color=2dba4e&text_color=fff&icon_color=2dba4e" alt="github stats"/>
+  <img height="170" src="https://diegodevtech-github-readme-stats.vercel.app//api/top-langs/?username=diegodevtech&layout=compact&hide_border=false&bg_color=00000000&title_color=2dba4e&text_color=fff" alt="top languages"/>
+</div>
+
 <!-- <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diegodevtech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0f2027&text_color=203a43&icon_color=2c5364" alt="github stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodevtech&layout=compact&hide_border=true&bg_color=00000000&title_color=0f2027&text_color=203a43" alt="top languages"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diegodevtech&theme=dracula" alt="GitHub Streak" /></a>
 </div> -->
 
 <div align="center">
