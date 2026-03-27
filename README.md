@@ -9,17 +9,17 @@
 
 <p align="center">
   <a href="mailto:diegocunhaam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge"/>
+    <img src="https://img.shields.io/badge/Email-bb001b?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge"/>
   </a>
   <a href="https://www.linkedin.com/in/diego-cunha-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available-282A36?style=flat-square" alt="available"/>
-  <img src="https://img.shields.io/badge/Focus-Frontend-282A36?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Language-Portuguese%20%7C%20English-282A36?style=flat-square" alt="languages"/>
+  <img src="https://img.shields.io/badge/Status-Available-2c5364?style=flat-square" alt="available"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend-2c5364?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/Language-Portuguese%20%7C%20English-2c5364?style=flat-square" alt="languages"/>
 </p>
 
 <h2 align="center">Tech Stack</h2>
